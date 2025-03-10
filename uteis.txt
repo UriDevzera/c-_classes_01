@@ -1,0 +1,5 @@
+main.cpp: nome do arquivo com o main;
+-o programa_com_variaveis: nome do executavel gerado depois de compilar
+
+g++ -Werror -Wall main.cpp -o programa_com_variaveis : compilar
+./programa_com_variaveis : executando programa gerado
